@@ -1,4 +1,4 @@
 - [首页](/)
-- [Language](/Documents/)
+- [Language](/)
   - [中文](/Documents/Chinese/)
   - [English](/Documents/English/)
