@@ -11,4 +11,6 @@
 - [第2节](/Documents/Chapter2/section2.md)
 - [第3节](/Documents/Chapter2/section3.md)
 - [第4节](/Documents/Chapter2/section4.md)
+- [第5节](/Documents/Chapter2/section5.md)
+- [第6节](/Documents/Chapter2/section6.md)
 
