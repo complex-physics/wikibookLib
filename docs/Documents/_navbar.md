@@ -1,4 +1,4 @@
 - [首页](/)
-- [Language](/)
+- [章节](/)
   - [Chapter1](/Documents/Chapter1/)
   - [Chapter2](/Documents/Chapter2/)
